@@ -1,0 +1,13 @@
+.press, .no-press {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.press {
+    color: white;
+    background-color: black;
+}
+
+.no-press {
+    background-color: yellow;
+}
